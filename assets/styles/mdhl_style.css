@@ -32,77 +32,6 @@ html, body {
     background-repeat: no-repeat;
 }
 
-    /* about-header */
-
-.about-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: column;
-    font-size: 100%;
-    width: 100%;
-    background-image: url(../images/hockey_team1cut.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-    /* contact-header */
-
-.contact-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: column;
-    font-size: 100%;
-    width: 100%;
-    background-image: url(../images/players1cut.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-    /* rules-header */
-
-.rules-header {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        flex-direction: column;
-        font-size: 100%;
-        width: 100%;
-        background-image: url(../images/hockey_judgecut.jfif);
-        background-size: cover;
-        background-repeat: no-repeat;
-}
-
-        /* games-header */
-
-.games-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: column;
-    font-size: 100%;
-    width: 100%;
-    background-image: url(../images/hockey_3cut.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-    /* registration-header */
-
-
-.registration-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: column;
-    font-size: 100%;
-    width: 100%;
-    background-image: url(../images/players4.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-}    
-
 .mdhl-logo {
     width: 12%;
     justify-self: flex-start ;
@@ -270,60 +199,6 @@ footer a:hover {
 footer ul:first-child {
     font-weight: bold;
 }
-
-/* ------------------------------------------------------------------------------- */
-/* ESTILOS DE TABLA */
-
-
-
-
-/* Generales */
-
-table *:hover {
-    border-bottom: solid rgb(191, 63, 52);
-}
-
-table {
-    border-collapse: separate;
-    border-spacing: 10px;
-    background-color: rgba(99, 97, 97, 0.118);
-    margin: auto;
-}
-
-table {
-    width: 100%;
-}
-
-/* Caption */
-
-table caption {
-    font-size: 150%;
-    padding: 2%;
-    background-color: rgba(191, 63, 52, .8);;
-}
-
-/* Thead */
-
-thead {
-    background-color: rgba(191, 63, 52, .5);
-}
-
-/* Tbody */
-
-tr,th,td {
-    border-bottom: solid whitesmoke;
-}
-
-/* Tfoot */
-
-tfoot {
-    background-color: rgba(191, 63, 52, .5);
-}
-
-/* ------------------------------------------------------------------------------- */
-/* ESTILOS DE FORMULARIO */
-
-
 
 
 /* Generales */
